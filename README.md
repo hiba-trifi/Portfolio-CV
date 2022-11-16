@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Devolopment
 - 📫 How to reach me : trifi.hiba.solicode@gmail.com
 - 
-- 👀 I’m interested in you 👀👀👀👀👀👀
+<!-- - 👀 I’m interested in you 👀👀👀👀👀👀 -->
 
 <!---
 hiba-trifi/hiba-trifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
