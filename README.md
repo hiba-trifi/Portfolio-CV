@@ -15,7 +15,7 @@
   <a href="https://www.fiverr.com/hibadev" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-%231dbf73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
-  <a href="https://en.gravatar.com/hibadev" target="_blank">
+  <a href="https://en.gravatar.com/hibadevv" target="_blank">
     <img src="https://img.shields.io/badge/Gravatar-%234cc9ff?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar" />
   </a>
 </p>
