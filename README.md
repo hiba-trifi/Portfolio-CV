@@ -3,12 +3,23 @@
 <h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #ff5c8d;">Wiring the future, one line of code at a time</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-0ff?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio" />
-  <img src="https://img.shields.io/badge/Dev.to-%23ff2b72?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X.com" />
-  <img src="https://img.shields.io/badge/Fiverr-%231dbf73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  <img src="https://img.shields.io/badge/Gravatar-%234cc9ff?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar" />
+  <a href="https://hiba.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0ff?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://dev.to/hibadev" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-%23ff2b72?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://x.com/hibadev" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X.com" />
+  </a>
+  <a href="https://www.fiverr.com/hibadev" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-%231dbf73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+  <a href="https://en.gravatar.com/hibadev" target="_blank">
+    <img src="https://img.shields.io/badge/Gravatar-%234cc9ff?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar" />
+  </a>
 </p>
+
 
 <!-- Start of About Me Section -->
 ### **About Me** 🔥
